@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091813692415",
+    "project_id": "chinxh-study",
+    "storage_bucket": "chinxh-study.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091813692415:android:f1db8958bddc21d1170dca",
+        "android_client_info": {
+          "package_name": "com.example.lab8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091813692415-ekdnhc93vnkn6sb39772csbaptms36vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF1EBaBTwUdFIbYT0DA92JfaFfnJinvwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091813692415-ekdnhc93vnkn6sb39772csbaptms36vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
